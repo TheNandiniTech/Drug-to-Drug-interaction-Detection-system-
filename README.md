@@ -1,6 +1,6 @@
 # AI-Based Drug Interaction Detection System
 
-
+## Mini Project Abstract
 Title: AI-Based Drug Interaction Detection System
 
 Domain: Data Analytics Group - Artificial Intelligence
